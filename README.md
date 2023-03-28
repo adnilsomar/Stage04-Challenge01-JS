@@ -1,16 +1,17 @@
 # :green_circle: Stage 04 - Challenge 01- JavaScript. :sunflower:
-### **Desafio da Rocketseat para treinar conceitos básicos de lógica de programação e JavaScript.**
+### **Desafio da Rocketseat para treinar conceitos básicos de lógica de programação, JavaScript e processamento de dados.**
+
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/126821291/228281184-b49260ce-4406-41f7-9cbb-cd8baa913e9d.gif" alt="">
+  <img src="https://user-images.githubusercontent.com/126821291/228287473-8e18088f-3fea-4d71-9972-b3f48fa291b4.gif" alt="">
 </p>
 
 ## :memo: Conceitos trabalhados
 
-- Variáveis;
-- Operações matemáticas;
+- Estrutura de dados com objetos;
+- Estrutura de repetição;
+- Criação de funções;
 - Operadores comparativos;
-- Condicional.
 
 ## :computer: Tecnologias
 
